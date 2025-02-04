@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFB13C&size=50&width=1000&height=80&lines=Welcome-to-Hospital-Management-App"/>
-</div>
-
 # HealthHub - Advanced Hospital Management System
 
 HealthHub is a comprehensive React-based hospital management system designed to streamline healthcare operations and improve patient care. This system provides an intuitive interface for managing appointments, patient records, doctor information, and administrative tasks.
