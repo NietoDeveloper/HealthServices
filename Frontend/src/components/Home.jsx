@@ -113,7 +113,7 @@ const images = [
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5 }}
             >
-              Welcome to Health Nest
+              Welcome
             </motion.h1>
             <motion.p
               className="text-lg sm:text-xl mb-8"
