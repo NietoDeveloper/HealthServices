@@ -50,7 +50,7 @@ HealthHub is a comprehensive React-based hospital management system designed to 
    npm run dev
    ```
 
-## Usage
+### Usage
 
 - Navigate through different sections using the top navigation bar.
 - Use the appointment form to schedule new appointments.
@@ -58,7 +58,7 @@ HealthHub is a comprehensive React-based hospital management system designed to 
 - View doctor information in the Doctors section.
 - Access administrative features through the Admin panel (use "admin" for both username and password for demo purposes).
 
-## Contributing
+### Contributing
 
 Contributions to improve HealthHub are welcome. Please follow these steps to contribute:
 
