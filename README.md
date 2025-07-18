@@ -83,7 +83,3 @@ Contributions to improve HealthHub are welcome. Please follow these steps to con
 7. Open a Pull Request on the original repository
 
 Please ensure that your code adheres to the project's coding standards and includes appropriate documentation.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
