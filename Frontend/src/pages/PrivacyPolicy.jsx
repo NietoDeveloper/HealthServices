@@ -10,7 +10,6 @@ const PrivacyPolicy = () => {
       <p className="mb-4">
         This privacy policy outlines how we collect, use, and safeguard your data when you use our services.
       </p>
-      {/* Add more detailed privacy policy information here */}
     </div>
   );
 };
