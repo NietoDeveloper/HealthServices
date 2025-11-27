@@ -21,7 +21,6 @@ const Login = () => {
     e.preventDefault();
 
     console.log("Login attempt:", formData);
-    // Reset form after submission
     setFormData({
       email: "",
       password: "",
