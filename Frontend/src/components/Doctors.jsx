@@ -17,7 +17,7 @@ const Doctors = ({ doctors }) => {
 
     const handleOpenModal = (doctor) => {
         setSelectedDoctor(doctor);
-        setIsModalOpen(true); // Open the modal
+        setIsModalOpen(true); 
     };
 
     const handleCloseModal = () => {
