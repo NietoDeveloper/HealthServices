@@ -61,7 +61,6 @@ const Review = () => {
     onChange={handleCommentChange}
   ></textarea>
 
-  {/* Submit Button */}
   <button
     type="submit"
     className="bg-yellow-500 text-navy-900 font-bold py-2 px-4 rounded-lg w-full hover:bg-yellow-600 transition duration-300"
