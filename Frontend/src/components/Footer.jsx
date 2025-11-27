@@ -28,7 +28,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-accent">Health Center</h3>
             <p className="text-[1rem]">
-              Revolutionizing healthcare management with cutting-edge technology and compassionate care.
+              Revolutionizing health center management with cutting-edge technology and compassionate care.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((link, index) => (
