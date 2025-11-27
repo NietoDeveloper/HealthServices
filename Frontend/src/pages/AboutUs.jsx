@@ -56,7 +56,6 @@ const AboutUs = () => {
         ))}
       </div>
 
-      {/* Team Section */}
       <div className="bg-light p-8 rounded-lg">
         <h2 className="text-3xl font-bold text-center text-primary mb-8">Meet Our Team</h2>
         <div className="flex justify-center">
