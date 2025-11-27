@@ -3,7 +3,6 @@ import { registerPatient, loginPatient, getAllPatients, deletePatient } from '..
 
 const router = express.Router();
 
-// Route for registering a new patient
 router.post('/register', registerPatient);
 
 // Route for logging in a patient
