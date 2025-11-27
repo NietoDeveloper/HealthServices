@@ -10,7 +10,6 @@ const TermsOfService = () => {
       <p className="mb-4">
         Please review these terms carefully. If you do not agree to these terms, you should not use this service.
       </p>
-      {/* Add more detailed terms of service information here */}
     </div>
   );
 };
