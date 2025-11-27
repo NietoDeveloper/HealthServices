@@ -41,7 +41,6 @@ export const loginPatient = async (req, res) => {
   try {
     const { email, password } = req.body;
 
-    // Find the patient by email
     const patient = await Patient.findOne({ email });
     if (!patient) {
       return res.status(400).json({ message: "Invalid credentials" });
