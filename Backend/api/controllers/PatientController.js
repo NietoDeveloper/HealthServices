@@ -9,7 +9,6 @@ export const registerPatient = async (req, res) => {
 
     console.log(req.body);
 
-    // Check if the patient already exists
     const existingPatient = await Patient.findOne({ email });
     if (existingPatient) {
       return res.status(400).json({ message: "Patient already exists" });
