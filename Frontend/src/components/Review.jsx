@@ -54,7 +54,7 @@ const Review = () => {
 
             <form onSubmit={handleSubmit}>
   <textarea
-    className="w-full p-2 rounded-lg bg-navy-700 text-black focus:outline-none mb-4" // changed text-white to text-black
+    className="w-full p-2 rounded-lg bg-navy-700 text-black focus:outline-none mb-4" 
     placeholder="Leave a comment..."
     rows="4"
     value={comment}
