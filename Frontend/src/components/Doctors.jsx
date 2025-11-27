@@ -63,7 +63,7 @@ const Doctors = ({ doctors }) => {
                                 whileTap={{ scale: 0.9 }}
                                 className="bg-primary text-accent px-4 py-2 rounded-full font-bold flex items-center justify-center"
                                 onClick={(e) => {
-                                    e.stopPropagation(); // Prevent triggering the card click event
+                                    e.stopPropagation(); 
                                     navigate(`/appointments?doctorId=${doctor.id}`);
                                 }}
                             >
