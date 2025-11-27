@@ -111,7 +111,7 @@ const Doctors = ({ doctors }) => {
                                 className="bg-accent text-primary px-6 py-2 rounded-full font-bold hover:bg-primary hover:text-accent transition duration-300 flex items-center justify-center"
                                 onClick={() => {
                                     navigate(`/appointments?doctorId=${selectedDoctor.id}`);
-                                    handleCloseModal(); // Close the modal after navigating
+                                    handleCloseModal(); 
                                 }}
                             >
                                 <FaCalendarPlus className="mr-2" />
