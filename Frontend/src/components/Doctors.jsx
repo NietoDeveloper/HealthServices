@@ -91,7 +91,7 @@ const Doctors = ({ doctors }) => {
             {isModalOpen && selectedDoctor && (
                 <div 
                     className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center"
-                    onClick={handleCloseModal} // Close modal when clicking outside
+                    onClick={handleCloseModal}
                 >
                     <div 
                         className="bg-white rounded-lg p-6 max-w-md mx-auto relative z-10"
