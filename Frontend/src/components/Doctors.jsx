@@ -47,7 +47,7 @@ const Doctors = ({ doctors }) => {
                     <motion.div
                         key={doctor.id}
                         className="bg-white p-4 sm:p-6 rounded-lg shadow-lg transition-all duration-300 relative cursor-pointer"
-                        onClick={() => handleOpenModal(doctor)} // Open modal when clicking on the card
+                        onClick={() => handleOpenModal(doctor)}
                     >
                         <img src={doctor.image} alt={doctor.name} className="w-24 h-24 sm:w-32 sm:h-32 rounded-full mx-auto mb-4 object-cover" />
                         <h3 className="text-lg sm:text-xl font-semibold text-primary text-center mb-2">{doctor.name}</h3>
