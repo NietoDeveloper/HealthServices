@@ -21,12 +21,12 @@ const Login = () => {
     e.preventDefault();
 
     console.log("Login attempt:", formData);
+
     setFormData({
       email: "",
       password: "",
     });
     setIsLoggedIn(true);
-    // You might want to redirect the user or show a success message here
   };
 
   return (
