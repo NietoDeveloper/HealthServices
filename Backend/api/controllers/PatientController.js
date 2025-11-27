@@ -14,7 +14,6 @@ export const registerPatient = async (req, res) => {
       return res.status(400).json({ message: "Patient already exists" });
     }
 
-    // Create a new patient
     const newPatient = await Patient.create({
       name,
       email,
