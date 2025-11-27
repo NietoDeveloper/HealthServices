@@ -5,7 +5,6 @@ const router = express.Router();
 
 router.post('/register', registerPatient);
 
-// Route for logging in a patient
 router.post('/login', loginPatient);
 
 router.get("/get-patients", getAllPatients);
