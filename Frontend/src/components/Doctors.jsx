@@ -72,7 +72,6 @@ const Doctors = ({ doctors }) => {
                             </motion.button>
                         </div>
 
-                        {/* 'i' button in bottom-right corner */}
                         <motion.button
                             whileHover={{ scale: 1.1 }}
                             whileTap={{ scale: 0.9 }}
