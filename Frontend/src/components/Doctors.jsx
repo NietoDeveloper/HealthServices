@@ -22,7 +22,7 @@ const Doctors = ({ doctors }) => {
 
     const handleCloseModal = () => {
         setIsModalOpen(false);
-        setSelectedDoctor(null); // Reset the selected doctor
+        setSelectedDoctor(null); 
     };
 
     return (
