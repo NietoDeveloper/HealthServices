@@ -1,4 +1,3 @@
-// controllers/patientController.js
 import { Patient } from "../models/Patient.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
