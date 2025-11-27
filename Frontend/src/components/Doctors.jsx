@@ -78,7 +78,7 @@ const Doctors = ({ doctors }) => {
                             className="absolute top-2 right-2 bg-accent text-black p-1.5 rounded-full flex items-center justify-center shadow-md"
                             onClick={(e) => {
                                 e.stopPropagation(); 
-                                handleOpenModal(doctor); // Open modal on 'i' button click
+                                handleOpenModal(doctor); 
                             }}
                         >
                             <FaInfoCircle className="text-sm" />
