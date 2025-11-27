@@ -14,7 +14,6 @@ const Review = () => {
     return () => clearTimeout(timer);
   }, []);
 
-  // Function to handle comment change
   const handleCommentChange = (e) => {
     setComment(e.target.value);
   };
