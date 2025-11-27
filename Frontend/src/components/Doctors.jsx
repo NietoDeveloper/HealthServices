@@ -57,7 +57,6 @@ const Doctors = ({ doctors }) => {
                             <span>Experience: {doctor.experience} years</span>
                         </div>
 
-                        {/* Book Appointment button */}
                         <div className="flex justify-center">
                             <motion.button
                                 whileHover={{ scale: 1.1 }}
