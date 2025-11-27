@@ -95,7 +95,7 @@ const Doctors = ({ doctors }) => {
                 >
                     <div 
                         className="bg-white rounded-lg p-6 max-w-md mx-auto relative z-10"
-                        onClick={(e) => e.stopPropagation()} // Prevent click events from closing the modal
+                        onClick={(e) => e.stopPropagation()} 
                     >
                         <button className="absolute top-2 right-2 text-gray-600" onClick={handleCloseModal}>
                             &times;
