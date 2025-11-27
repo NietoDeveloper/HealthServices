@@ -7,7 +7,7 @@ import DoctorModal from './DoctorProfile';
 const Doctors = ({ doctors }) => {
     const navigate = useNavigate();
     const [searchTerm, setSearchTerm] = useState('');
-    const [selectedDoctor, setSelectedDoctor] = useState(null); // State to manage selected doctor
+    const [selectedDoctor, setSelectedDoctor] = useState(null); 
     const [isModalOpen, setIsModalOpen] = useState(false); // State to manage modal visibility
 
     const filteredDoctors = doctors.filter(doctor =>
