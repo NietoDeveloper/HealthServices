@@ -31,7 +31,6 @@ const SignUp = () => {
             phoneNumber: '',
             file: null,
         });
-        // You might want to redirect the user or show a success message here
     };
 
     return (
