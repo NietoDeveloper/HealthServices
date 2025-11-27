@@ -30,7 +30,7 @@ const Review = () => {
       {visible && (
         <div className="fixed inset-0 flex justify-center items-center bg-black bg-opacity-50 backdrop-blur-sm z-50">
           <div className="bg-navy-800 p-6 rounded-lg shadow-lg w-full max-w-md text-white">
-            <h2 className="text-2xl font-bold mb-2 text-center">Rate Us</h2> {/* Centered Heading */}
+            <h2 className="text-2xl font-bold mb-2 text-center">Rate Us</h2> 
             <p className="text-center mb-2">Please take a second to review our services!</p>
             {/* Star Rating */}
             <div className="flex justify-center mb-4">
