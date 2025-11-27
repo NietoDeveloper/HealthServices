@@ -19,7 +19,7 @@ const Login = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Here you would typically send the form data to your backend for authentication
+
     console.log("Login attempt:", formData);
     // Reset form after submission
     setFormData({
