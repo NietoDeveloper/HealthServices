@@ -1,4 +1,3 @@
-// routes/patientRoutes.js
 import express from 'express';
 import { registerPatient, loginPatient, getAllPatients, deletePatient } from '../controllers/PatientController.js';
 
