@@ -35,7 +35,6 @@ const ContactUs = () => {
         </motion.h1>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
-          {/* Contact Information */}
           <motion.div 
             className="bg-white p-8 rounded-lg shadow-lg"
             initial={{ opacity: 0, x: -50 }}
