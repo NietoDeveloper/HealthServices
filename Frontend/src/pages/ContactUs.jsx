@@ -18,7 +18,6 @@ const ContactUs = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission logic here, like sending data to an API
     console.log(formData);
     alert('Thank you for reaching out! We will get back to you soon.');
   };
