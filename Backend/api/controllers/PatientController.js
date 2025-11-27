@@ -36,7 +36,7 @@ export const getAllPatients = async (req, res) => {
   const patients = await Patient.find();
   return res.status(200).json({ data: patients });
 };
-// Login a patient
+
 export const loginPatient = async (req, res) => {
   try {
     const { email, password } = req.body;
