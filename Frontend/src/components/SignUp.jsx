@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { FaUser, FaEnvelope, FaLock, FaPhoneAlt } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import PasswordStrengthBar from 'react-password-strength-bar'; // Importing PasswordStrengthBar
+import PasswordStrengthBar from 'react-password-strength-bar';
 
 const SignUp = () => {
     const [formData, setFormData] = useState({
