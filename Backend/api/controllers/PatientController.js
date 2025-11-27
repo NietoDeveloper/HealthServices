@@ -3,7 +3,6 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import { v4 as uuidv4 } from "uuid";
 
-// Register a new patient
 export const registerPatient = async (req, res) => {
   try {
     const { name, email, gender, mobile, age } = req.body;
