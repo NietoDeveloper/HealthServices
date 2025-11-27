@@ -6,7 +6,6 @@ const Review = () => {
   const [comment, setComment] = useState('');
   const [visible, setVisible] = useState(false);
 
-  // Show the component after 15 seconds
   useEffect(() => {
     const timer = setTimeout(() => {
       setVisible(true);
