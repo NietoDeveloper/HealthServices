@@ -11,7 +11,7 @@ const SignUp = () => {
         password: '',
         selectedVal: '',
         phoneNumber: '',
-        file: null, // To store the uploaded file
+        file: null, 
     });
 
     const handleChange = (e) => {
