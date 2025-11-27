@@ -77,7 +77,7 @@ const Doctors = ({ doctors }) => {
                             whileTap={{ scale: 0.9 }}
                             className="absolute top-2 right-2 bg-accent text-black p-1.5 rounded-full flex items-center justify-center shadow-md"
                             onClick={(e) => {
-                                e.stopPropagation(); // Prevent triggering the card click event
+                                e.stopPropagation(); 
                                 handleOpenModal(doctor); // Open modal on 'i' button click
                             }}
                         >
