@@ -35,7 +35,6 @@ const AboutUs = () => {
         </p>
       </div>
 
-      {/* Mission, Vision, Values Section */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
         {features.map((feature, index) => (
           <motion.div
