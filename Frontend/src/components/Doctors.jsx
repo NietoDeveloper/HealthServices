@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { FaSearch, FaCalendarPlus, FaInfoCircle } from 'react-icons/fa';
-import DoctorModal from './DoctorProfile'; // Import the modal component
+import DoctorModal from './DoctorProfile'; 
 
 const Doctors = ({ doctors }) => {
     const navigate = useNavigate();
