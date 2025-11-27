@@ -91,7 +91,6 @@ const SignUp = () => {
                             />
                         </div>
 
-                        {/* Password Strength Checker */}
                         <PasswordStrengthBar password={formData.password} />
                     </div>
                     <div>
