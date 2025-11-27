@@ -17,7 +17,6 @@ const Review = () => {
     setComment(e.target.value);
   };
 
-  // Function to handle form submit
   const handleSubmit = (e) => {
     e.preventDefault();
     alert(`Thank you for your review!!`);
