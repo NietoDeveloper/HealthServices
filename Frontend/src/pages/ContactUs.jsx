@@ -58,7 +58,6 @@ const ContactUs = () => {
             </div>
           </motion.div>
 
-          {/* Contact Form */}
           <motion.div 
             className="bg-white p-8 rounded-lg shadow-lg"
             initial={{ opacity: 0, x: 50 }}
