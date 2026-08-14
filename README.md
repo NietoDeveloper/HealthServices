@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=760&lines=%F0%9F%93%85+Appointment+Management;%F0%9F%A9%BA+Patient+Records+%26+Medical+History;%F0%9F%A7%91%E2%80%8D%E2%9A%95%EF%B8%8F+Doctor+Directory+%C2%B7+Specialties+%26+Counts;%F0%9F%94%90+Secure+Admin+Panel+%2B+PDF+Reports;%F0%9F%8F%86+%231+GitHub+Committer+in+Colombia)](https://git.io/typing-svg)
 
-
-
 <br/>
 
 <p align="center">
@@ -25,8 +23,6 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
   </a>
 </p>
-
-
 
 <p align="center">
   <a href="https://github.com/NietoDeveloper/HealthServices">
@@ -71,8 +67,6 @@ HealthServices/
     └── utils/
 ```
 
-
-
 ---
 
 ## 🔄 Appointment & Records Flow
@@ -94,8 +88,6 @@ flowchart LR
 
 ---
 
-
-
 ## ✨ Features
 
 - **User-Friendly Interface:** Clean and responsive design for easy navigation across devices.
@@ -110,7 +102,7 @@ flowchart LR
 ## 📄 Pages
 
 | Page | Description |
-|:-----|:-------------|
+| :----- | :------------- |
 | **Home** | Welcome page with quick access to key features |
 | **Appointments** | Book and manage patient appointments |
 | **Patients** | Add, edit, and manage patient records |
@@ -124,7 +116,7 @@ flowchart LR
 <div align="center">
 
 | Layer | Technologies |
-|:------|:-------------|
+| :------ | :------------- |
 | 🎨 **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3 |
 | 🎯 **Icons** | Font Awesome |
 | 📄 **Reporting** | jsPDF for PDF report generation |
@@ -133,8 +125,6 @@ flowchart LR
 </div>
 
 ---
-
-
 
 ## 🚀 Setup and Installation
 
@@ -174,8 +164,6 @@ npm run dev
 
 ---
 
-
-
 ## 🤝 Contributing
 
 Contributions to improve HealthHub are welcome. Please follow these steps to contribute:
@@ -187,17 +175,23 @@ Contributions to improve HealthHub are welcome. Please follow these steps to con
    - Verify that all previous functionality is working correctly.
    - Test your new changes thoroughly.
 4. If no bugs are found, stage your changes:
+
    ```bash
    git add .
    ```
+
 5. Commit your changes with a descriptive message:
+
    ```bash
    git commit -m "Add some AmazingFeature"
    ```
+
 6. Push to your forked repository:
+
    ```bash
    git push origin feature/AmazingFeature
    ```
+
 7. Open a Pull Request on the original repository.
 
 Please ensure that your code adheres to the project's coding standards and includes appropriate documentation.
