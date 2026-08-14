@@ -12,14 +12,6 @@ HealthHub is a comprehensive React-based hospital management system designed to 
 
 ## Setup and Installation
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/NietoDeveloper/HealthServices
-   ```
-2. Navigate to the project directory:
-   ```
-   cd Hospital-Management
-   ```
 3. Install dependencies:
    ```
    npm i
