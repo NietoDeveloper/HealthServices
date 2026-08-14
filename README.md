@@ -6,6 +6,6 @@ HealthHub is a comprehensive React-based hospital management system designed to 
 
 - **User-friendly Interface**: Clean and responsive design for easy navigation across devices.
  information.
-ure login for administrative tasks and report 
+d report 
 
 ## NIetoDeveloper
