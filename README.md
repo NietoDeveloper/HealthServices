@@ -70,3 +70,26 @@ HealthServices/
         └── Styles/
     └── utils/
 ```
+
+
+
+---
+
+## 🔄 Appointment & Records Flow
+
+```mermaid
+flowchart LR
+    A([👤 Patient / Staff]) -->|Book / Search| B[Appointments Page]
+    B --> C[Backend API]
+    C -->|CRUD| D[(Patients / Doctors\nAppointments)]
+    D -->|Response| E([📋 Updated Records])
+    E --> F[Admin Panel]
+    F -->|Generate| G[📄 jsPDF Report]
+
+    style A fill:#FFD700,color:#000,stroke:#FFD700
+    style C fill:#0a0a0a,color:#FFD700,stroke:#FFD700
+    style D fill:#47A248,color:#fff,stroke:#47A248
+    style F fill:#000,color:#FFD700,stroke:#FFD700
+```
+
+---
