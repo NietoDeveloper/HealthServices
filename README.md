@@ -16,11 +16,7 @@ HealthHub is a comprehensive React-based hospital management system designed to 
 ### Usage
 
 - Navigate through different sections using the top navigation bar.
-- Use the appointment form to schedule new appointments.
 
-
-1. Fork the repository
-2. Make your changes
 3. Test the web application manually:
    - Run the application locally
    - Verify that all previous functionality is working correctly
