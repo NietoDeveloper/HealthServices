@@ -8,7 +8,7 @@ HealthHub is a comprehensive React-based hospital management system designed to 
  information.
 5. **Admin**: Secure login for administrative tasks and report generat
 
-6. Push uest on the original repository
+ uest on the original repository
 
 
 
