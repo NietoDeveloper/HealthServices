@@ -133,3 +133,43 @@ flowchart LR
 </div>
 
 ---
+
+
+
+## 🚀 Setup and Installation
+
+**Step 1 — Clone the repository**
+
+```bash
+git clone https://github.com/NietoDeveloper/HealthServices
+```
+
+**Step 2 — Navigate to the project directory**
+
+```bash
+cd Hospital-Management
+```
+
+**Step 3 — Install dependencies**
+
+```bash
+npm i
+```
+
+**Step 4 — Run the development server**
+
+```bash
+npm run dev
+```
+
+---
+
+## 📖 Usage
+
+- Navigate through different sections using the top navigation bar.
+- Use the appointment form to schedule new appointments.
+- Manage patient records in the Patients section.
+- View doctor information in the Doctors section.
+- Access administrative features through the Admin panel (use `admin` for both username and password for demo purposes).
+
+---
