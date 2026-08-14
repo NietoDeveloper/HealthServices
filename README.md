@@ -13,11 +13,7 @@ HealthHub is a comprehensive React-based hospital management system designed to 
 ## Setup and Installation
 
 3. Install dependencies:
-   ```
-   npm i
-   ```
-4. Run the development server:
-   ```
+
    npm run dev
    ```
 
