@@ -173,3 +173,51 @@ npm run dev
 - Access administrative features through the Admin panel (use `admin` for both username and password for demo purposes).
 
 ---
+
+
+
+## 🤝 Contributing
+
+Contributions to improve HealthHub are welcome. Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Make your changes.
+3. Test the web application manually:
+   - Run the application locally.
+   - Verify that all previous functionality is working correctly.
+   - Test your new changes thoroughly.
+4. If no bugs are found, stage your changes:
+   ```bash
+   git add .
+   ```
+5. Commit your changes with a descriptive message:
+   ```bash
+   git commit -m "Add some AmazingFeature"
+   ```
+6. Push to your forked repository:
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+7. Open a Pull Request on the original repository.
+
+Please ensure that your code adheres to the project's coding standards and includes appropriate documentation.
+
+---
+
+## 👨‍💻 Author
+
+**Manuel Nieto (NietoDeveloper)**
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
