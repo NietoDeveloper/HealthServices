@@ -15,5 +15,3 @@ Please ensure that your code adheres to the project's coding standards and inclu
 ## Manuel Nieto 
 
 ## NIetoDeveloper
-
-### 2023
