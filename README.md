@@ -19,11 +19,7 @@ HealthHub is a comprehensive React-based hospital management system designed to 
 s functionality is working correctly
    - Test your new changes thoroughly
 4. If no bugs are found, stage your changes:
-   ```
-   git add .
-   ```
-5. Commit your changes with a descriptive message:
-   ```
+
    git commit -m "Add some AmazingFeature"
    ```
 6. Push to your forked repository:
