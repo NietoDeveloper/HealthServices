@@ -25,3 +25,48 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
   </a>
 </p>
+
+
+
+<p align="center">
+  <a href="https://github.com/NietoDeveloper/HealthServices">
+    <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FHealthServices-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 📋 Overview
+
+**HealthHub** is a comprehensive React-based hospital management system designed to streamline healthcare operations and improve patient care. This system provides an intuitive interface for managing appointments, patient records, doctor information, and administrative tasks.
+
+---
+
+## 🗂️ Project Structure
+
+```text
+HealthServices/
+├── Backend/
+│   └── api/
+│       ├── controllers/     # Business logic handlers
+│       ├── models/           # Database models
+│       └── routes/            # RESTful API endpoints
+└── Frontend/
+    ├── .vscode/
+    ├── models/
+    ├── public/
+    └── src/
+        ├── app/
+        │   ├── api/
+        │   │   └── auth/       # Auth API routes
+        │   └── auth/            # Auth views
+        ├── assets/
+        ├── components/
+        ├── context/
+        ├── hooks/
+        ├── pages/
+        └── Styles/
+    └── utils/
+```
