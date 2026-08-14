@@ -14,7 +14,7 @@ HealthHub is a comprehensive React-based hospital management system designed to 
 ## Pages
 
 1. **Home**: Welcome page with quick access to key features.
-2. **Appointments**: Book and manage patient appointments.
+
 3. **Patients**: Add, edit, and manage patient records.
 4. **Doctors**: View and manage doctor information.
 5. **Admin**: Secure login for administrative tasks and report generation.
