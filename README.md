@@ -16,10 +16,7 @@ HealthHub is a comprehensive React-based hospital management system designed to 
 ### Usage
 
 - Navigate through different sections using the top navigation bar.
-
-3. Test the web application manually:
-   - Run the application locally
-   - Verify that all previous functionality is working correctly
+s functionality is working correctly
    - Test your new changes thoroughly
 4. If no bugs are found, stage your changes:
    ```
