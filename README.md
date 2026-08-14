@@ -10,16 +10,6 @@ HealthHub is a comprehensive React-based hospital management system designed to 
 
 ## Technologies Used
 
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Font Awesome for icons
-- jsPDF for PDF report generation
-  
-## Backend server 
-- Backend is deployed on ``
-
 ## Setup and Installation
 
 1. Clone the repository:
