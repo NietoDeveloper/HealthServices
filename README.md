@@ -93,3 +93,43 @@ flowchart LR
 ```
 
 ---
+
+
+
+## ✨ Features
+
+- **User-Friendly Interface:** Clean and responsive design for easy navigation across devices.
+- **Appointment Management:** Schedule and manage patient appointments efficiently.
+- **Patient Records:** Maintain detailed patient information and medical history.
+- **Doctor Directory:** Access a list of doctors with their specialties and patient counts.
+- **Administrative Tools:** Secure admin panel for overseeing system operations and generating reports.
+- **Responsive Design:** Optimized for both desktop and mobile devices.
+
+---
+
+## 📄 Pages
+
+| Page | Description |
+|:-----|:-------------|
+| **Home** | Welcome page with quick access to key features |
+| **Appointments** | Book and manage patient appointments |
+| **Patients** | Add, edit, and manage patient records |
+| **Doctors** | View and manage doctor information |
+| **Admin** | Secure login for administrative tasks and report generation |
+
+---
+
+## 🛠️ Technologies Used
+
+<div align="center">
+
+| Layer | Technologies |
+|:------|:-------------|
+| 🎨 **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3 |
+| 🎯 **Icons** | Font Awesome |
+| 📄 **Reporting** | jsPDF for PDF report generation |
+| ⚙️ **Backend** | Node.js API (controllers, models, routes) |
+
+</div>
+
+---
