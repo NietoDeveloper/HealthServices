@@ -8,11 +8,7 @@ HealthHub is a comprehensive React-based hospital management system designed to 
  information.
 5. **Admin**: Secure login for administrative tasks and report generation.
 
-6. Push to your forked repository:
-   ```
-   git push origin feature/AmazingFeature
-   ```
-7. Open a Pull Request on the original repository
+6. Push uest on the original repository
 
 Please ensure that your code adheres to the project's coding standards and includes appropriate documentation.
 
